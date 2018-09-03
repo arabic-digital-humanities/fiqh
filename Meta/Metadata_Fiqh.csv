@@ -1,4 +1,4 @@
-Order;000.BookURI;021.BookSUBJ;#091.Number of tokens;010.AuthorAKA;010.AuthorNAME;011.AuthorBORNH;012.AuthorBORNC;013.AuthorDIEDH;014.AuthorDIEDC;016.Century;020.BookTITLE;015.Author Geographical Area;092.Tagging;022.BookVOLS
+Order;000.BookURI;021.BookSUBJ;091.Number of tokens;010.AuthorAKA;010.AuthorNAME;011.AuthorBORNH;012.AuthorBORNC;013.AuthorDIEDH;014.AuthorDIEDC;016.Century;020.BookTITLE;015.Author Geographical Area;092.Tagging;022.BookVOLS
 1;0182AbuYusufYacqub.Kharaj; حنفي ;76062;أبو يوسف;أبو يوسف يعقوب بن إبراهيم بن حبيب بن سعد بن حبتة الأنصاري  ;113;798;182;731;2ndH/8thC and 3rdH/9thC century;الخراج ;Fertile Crescent;Quran @QB@ @QE@ Hadith @HB@;1
 2;0264IbnYahyaMuzani.Mukhtasar; شافعي ;201828;المزني ;إسماعيل بن يحيى بن إسماعيل، أبو إبراهيم المزني  ;175;791-92;264;877-78;2ndH/8thC and 3rdH/9thC century;مختصر المزني (مطبوع ملحقا بالأم للشافعي) ;Fertile Crescent;Books ### | Chapters ### ||  Quran @QB@ @QE@  Hadith @HB@ @HE@;1
 3;0179MalikIbnAnas.Muwatta;مالكي ;151424;مالك ;مالك بن أنس بن مالك بن عامر الأصبحي المدني  ;93;711;179;795;2ndH/8thC and 3rdH/9thC century;موطأ الإمام مالك;Fertile Crescent;Books ### | Chapters ### ||  Quran @QB@ @QE@;1
