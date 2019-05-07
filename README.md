@@ -14,9 +14,11 @@ The criteria for selection of the texts in the corpus were:
 3. length (i.e., the longer the better); and
 4. popularity (measured by the relative fame of a work or author).
 
+Most of the books were collected from [al-Maktaba al-Shamila website](http://shamela.ws). The books in the website are generated using the [al-Maktaba al-Shamila software program](http://www.arrawdah.com) developed by al-Makab al-Taʿāwnī lil-Daʿwā bil-Rawdā. In the program itself the developers state that the books are free and they encourage others to distribute them. They also stress that the books are not to be used to distribute what is deviant to the Sunni doctrine. The Jaʿfarī books were collected from [Maktabat Yuʿsūb](http://www.yasoob.com) and they say nothing regarding their license.
+
 The corpus was created for the [Bridging the Gap project](https://www.esciencecenter.nl/project/bridging-the-gap).
 
-The text files are in [OpenITI markup](https://alraqmiyyat.github.io/mARkdown/). 
+The text files are in [OpenITI markup](https://alraqmiyyat.github.io/mARkdown/).
 
 ## Preprocessing
 
