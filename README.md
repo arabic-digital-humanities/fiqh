@@ -24,9 +24,3 @@ The text files are in [OpenITI markup](https://alraqmiyyat.github.io/mARkdown/).
 ## Preprocessing
 
 * We replaced all instances of `\u2028` with `\n` (using notebook [`split-on-headers.ipynb`](https://github.com/arabic-digital-humanities/adhtools/blob/master/notebooks/split-on-headers.ipynb))
-
-## Todo
-
-* Add data license
-* Add information about the source of the text files
-* Get DOI
